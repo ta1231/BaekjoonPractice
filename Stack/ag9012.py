@@ -18,6 +18,7 @@ for i in range(N):
                 break
             else:
                 continue
+            
         
     
 
